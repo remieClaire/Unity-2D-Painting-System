@@ -10,11 +10,11 @@ This was put together using various YouTube video tutorials on how to build a pa
 
 # [Video Demo](https://youtu.be/q1NZyh849OU) & Screenshots
 <p>
-  <img width="463" height="346" alt="image depicting all possible brush colors"   src="https://github.com/user-attachments/assets/8b72c8ea-1ff2-43f6-bcf0-48799ccac7e1" /><br>
+  <img width="463" height="346" alt="image depicting all possible brush colors"   src="images/Brush colors.png" /><br>
   Fig 1. Brush colors
 </p>
 <p>
-  <img width="462" height="346" alt="image depicting all possible brush sizes: small, medium, and large" src="https://github.com/user-attachments/assets/bb35bd2d-9b1b-400c-8e57-029a5bbb774b" /><br>
+  <img width="462" height="346" alt="image depicting all possible brush sizes: small, medium, and large" src="images/Brush sizes.png" /><br>
   Fig 2. Brush sizes
 </p>
 
