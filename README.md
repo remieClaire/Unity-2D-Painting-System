@@ -22,6 +22,6 @@ This was put together using various YouTube video tutorials on how to build a pa
 * [Drawing Onto A Texture in Unity](https://youtu.be/NcNCQhy5bLo?si=XiN_bU1dUsrkbgp_)
   - Derived the main drawing logic from here
 * [Unity Painting System Tutorial: Part 1-4](https://youtu.be/yJa5HF20QMo?si=72I8EjFmRkK4jFxc)
-  - Derived the undo & redo functionality from here (there's no set playlist, so only the first part is linked here)
+  - Derived the undo & redo functionality from this video series (there's no set playlist, so only the first part is linked here)
 
  <ins>**All assets were drawn by my friend!**</ins>
