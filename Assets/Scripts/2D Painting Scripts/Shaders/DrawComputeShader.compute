@@ -1,0 +1,23 @@
+#pragma kernel CSDraw
+
+// texture we're modifying
+RWTexture2D<float4> ResultTexture; 
+// pixel position
+float2 PixelCoord;
+// brush size
+float DrawSize;
+// color
+float4 DrawColor;
+
+[numthreads(8,8,1)]
+void CSDraw (uint3 id : SV_DispatchThreadID)
+{    
+    float2 distance = (PixelCoord.xy - id.xy);
+    
+    // increase area around pixel that we're changing color of
+    if (length(distance) < DrawSize)
+    {
+        // set texture color at that point to our draw color
+        ResultTexture[id.xy] = DrawColor;
+    }
+}
